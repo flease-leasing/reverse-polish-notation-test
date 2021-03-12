@@ -1,0 +1,5 @@
+node_modules
+target
+.aws-sam
+package-lock.json
+.git
